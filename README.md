@@ -1,6 +1,6 @@
 # 🚀 DSA Practice Sheet
 
-A comprehensive collection of Data Structures and Algorithms problems organized by topics and difficulty levels. This repository tracks my progress through essential coding interview questions.
+A comprehensive collection of Data Structures and Algorithms problems organized by topics and difficulty levels. This repository contain essential coding interview questions.
 
 ## 📚 Table of Contents
 
